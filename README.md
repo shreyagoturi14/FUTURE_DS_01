@@ -153,6 +153,7 @@ Dashboard screenshots are available in the **Dashboard_Screenshot** folder.
 Due to GitHub file size limitations, the Power BI dashboard file is hosted on Google Drive.
 
 🔗 **Dashboard Download Link:**  
+https://drive.google.com/file/d/19E0WCEcAaxMy7QW4g1c7wzBAO7VWKMgS/view?usp=drive_link
 
 ---
 

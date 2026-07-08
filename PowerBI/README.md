@@ -41,7 +41,8 @@ Due to GitHub file size limitations, the Power BI dashboard file (`.pbix`) is ho
 
 📊 **Download Power BI Dashboard (.pbix):**
 
-🔗 **https://drive.google.com/file/d/19E0WCEcAaxMy7QW4g1c7wzBAO7VWKMgS/view?usp=drive_link**
+🔗 https://drive.google.com/file/d/19E0WCEcAaxMy7QW4g1c7wzBAO7VWKMgS/view?usp=drive_link
+
 ---
 
 ## Dashboard Screenshot

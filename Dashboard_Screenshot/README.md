@@ -6,7 +6,6 @@ This folder contains screenshots of the final Power BI dashboard developed as pa
 The screenshots provide a visual overview of the dashboard layout, key performance indicators (KPIs), interactive filters, and business insights generated from the Superstore dataset.
 
 ---
-
 ## Dashboard Highlights
 
 ### Key Performance Indicators (KPIs)
@@ -38,5 +37,4 @@ The screenshots allow users, recruiters, and reviewers to quickly understand the
 ---
 
 ## Preview
-
 The complete interactive dashboard is available inside the **PowerBI** folder.

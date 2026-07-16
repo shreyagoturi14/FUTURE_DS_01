@@ -9,7 +9,6 @@ The objective of this project is to identify sales trends, profitable product ca
 ---
 
 ##  Project Objectives
-
 This project aims to answer key business questions such as:
 
 - How much revenue has the business generated?

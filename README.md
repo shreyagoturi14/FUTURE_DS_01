@@ -6,7 +6,6 @@ This project focuses on analyzing retail business sales data and transforming ra
 
 The objective of this project is to identify sales trends, profitable product categories, top-performing products, and regional business performance through Exploratory Data Analysis (EDA) and an interactive Power BI dashboard.
 
----
 
 ##  Project Objectives
 This project aims to answer key business questions such as:
@@ -18,7 +17,6 @@ This project aims to answer key business questions such as:
 - How has revenue changed over time?
 - What insights can support better business decisions?
 
----
 
 ## 🛠️ Technologies Used
 
@@ -36,7 +34,6 @@ This project aims to answer key business questions such as:
 - Power Query
 - DAX
 
----
 
 ## 📂 Repository Structure
 
@@ -58,7 +55,6 @@ FUTURE_DS_01
 └── README.md
 ```
 
----
 
 ## 📈 Exploratory Data Analysis (EDA)
 The dataset was analyzed using Python to generate business insights.
@@ -88,7 +84,6 @@ The dataset was analyzed using Python to generate business insights.
 - Sales by Region
 - Profit by Region
 
----
 
 ## 📊 Power BI Dashboard
 
@@ -116,9 +111,8 @@ The final dashboard provides interactive business insights through multiple visu
 - Year
 - Category
 
----
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### Sales Performance
 - Total Sales: **$2.30M**
@@ -139,8 +133,7 @@ The final dashboard provides interactive business insights through multiple visu
 
 ### Trend Analysis
 - Revenue showed consistent growth over time.
-
----
+- 
 
 ## 📷 Dashboard Preview
 
@@ -148,7 +141,7 @@ Dashboard screenshots are available in the **Dashboard_Screenshot** folder.
 
 ---
 
-## 📥 Power BI Dashboard File
+##  Power BI Dashboard File
 Due to GitHub file size limitations, the Power BI dashboard file is hosted on Google Drive.
 
 🔗 **Dashboard Download Link:**  
@@ -169,11 +162,11 @@ This project demonstrates:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Shreya G**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
 ---
-⭐ If you found this project useful, feel free to explore the repository and provide feedback.
+If you found this project useful, feel free to explore the repository and provide feedback.

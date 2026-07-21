@@ -12,7 +12,6 @@ The dashboard converts raw business data into interactive visualizations that su
 ---
 
 ## Dashboard Preview
-
 The dashboard includes:
 - Total Sales Analysis
 - Total Profit Analysis
